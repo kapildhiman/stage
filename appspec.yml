@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
     - source: /
-      destination: /var/www/html/admin.nextiz.com
+      destination: /var/www/html/
